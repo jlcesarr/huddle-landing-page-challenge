@@ -186,3 +186,9 @@ body{
 
 
 }
+
+
+/* Credits */
+
+.attribution { font-size: 1rem; text-align: center; }
+.attribution a { color: white }
