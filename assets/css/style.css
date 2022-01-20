@@ -193,6 +193,11 @@ body {
 
 /* Credits */
 
+.huddle-footer {
+    align-self: flex-end;
+    justify-self: center;
+}
+
 .attribution {
     font-size: 0.8rem;
     text-align: center;
